@@ -1,5 +1,5 @@
 The GitHub Repo Contains:
-======================================
+######################################
 
 - A script which generates the Tidy Dataset
 
@@ -7,11 +7,11 @@ The GitHub Repo Contains:
 
 - A README.md file, this file
 
-======================================
+######################################
 The Tidy Dataset contains 180 observations (rows) and 81 variables (columns) in fixed width format delimited by [SPACE].
 
 Each record contains:
-======================================
+######################################
 - An identifier of the subject who carried out the experiment.
 
 - A level containing the various activities performed by the Subjects.
@@ -21,7 +21,7 @@ Each record contains:
 	- Mean of Standard deviation of Triaxial Angular velocity from the gyroscope. 
 
 Format of the various fields within the Tidy Dataset
-======================================
+######################################
 
 Column Name			|Start Position |Column Width
 SubjectId						1	|2
